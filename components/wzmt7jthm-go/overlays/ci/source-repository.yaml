@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wzmt7jthm-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/wzmt7jthm-go
